@@ -1,0 +1,23 @@
+.btn-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.btn-container .btn {
+    padding: 7px 12px;
+    border-radius: 10px;
+    font-size: 22px;
+    color: #fff;
+    background: rgb(45, 131, 170, 1);
+    border: 1px solid #fff;
+    background: linear-gradient(90deg, rgba(45,131,170,1) 0%, rgba(45,55,116,1) 37%, rgba(2,0,36,1) 100%);
+}
+
+.btn-container .btn:hover {
+    cursor: pointer;
+    color: rgb(45, 131, 170, 1);
+    border: 1px solid rgb(45, 131, 170, 1);
+    background: #fff;
+}
