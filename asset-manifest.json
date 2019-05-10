@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/maksymilianMroz/react-todo-app/static/css/main.fbf7fb8c.chunk.css",
-    "main.js": "/maksymilianMroz/react-todo-app/static/js/main.e2a85939.chunk.js",
-    "main.js.map": "/maksymilianMroz/react-todo-app/static/js/main.e2a85939.chunk.js.map",
-    "runtime~main.js": "/maksymilianMroz/react-todo-app/static/js/runtime~main.a1a9a1ce.js",
-    "runtime~main.js.map": "/maksymilianMroz/react-todo-app/static/js/runtime~main.a1a9a1ce.js.map",
-    "static/js/2.c2aa8da2.chunk.js": "/maksymilianMroz/react-todo-app/static/js/2.c2aa8da2.chunk.js",
-    "static/js/2.c2aa8da2.chunk.js.map": "/maksymilianMroz/react-todo-app/static/js/2.c2aa8da2.chunk.js.map",
-    "index.html": "/maksymilianMroz/react-todo-app/index.html",
-    "precache-manifest.a8c6f2f37a317cd39a89ee3a42517418.js": "/maksymilianMroz/react-todo-app/precache-manifest.a8c6f2f37a317cd39a89ee3a42517418.js",
-    "service-worker.js": "/maksymilianMroz/react-todo-app/service-worker.js",
-    "static/css/main.fbf7fb8c.chunk.css.map": "/maksymilianMroz/react-todo-app/static/css/main.fbf7fb8c.chunk.css.map"
+    "main.css": "/react-todo-app/static/css/main.fbf7fb8c.chunk.css",
+    "main.js": "/react-todo-app/static/js/main.bcc3f8a2.chunk.js",
+    "main.js.map": "/react-todo-app/static/js/main.bcc3f8a2.chunk.js.map",
+    "runtime~main.js": "/react-todo-app/static/js/runtime~main.a3a648b2.js",
+    "runtime~main.js.map": "/react-todo-app/static/js/runtime~main.a3a648b2.js.map",
+    "static/js/2.c2aa8da2.chunk.js": "/react-todo-app/static/js/2.c2aa8da2.chunk.js",
+    "static/js/2.c2aa8da2.chunk.js.map": "/react-todo-app/static/js/2.c2aa8da2.chunk.js.map",
+    "index.html": "/react-todo-app/index.html",
+    "precache-manifest.300bb91ffe1c9da54e70598c1eb1a293.js": "/react-todo-app/precache-manifest.300bb91ffe1c9da54e70598c1eb1a293.js",
+    "service-worker.js": "/react-todo-app/service-worker.js",
+    "static/css/main.fbf7fb8c.chunk.css.map": "/react-todo-app/static/css/main.fbf7fb8c.chunk.css.map"
   }
 }
